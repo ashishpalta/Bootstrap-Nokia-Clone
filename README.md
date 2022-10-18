@@ -12,5 +12,4 @@ _**MOBILE**_
 
 
 
-https://user-images.githubusercontent.com/44085985/196338909-946237e1-e286-454a-978f-79984a2e49f6.mov
-
+![Mobile-View](https://user-images.githubusercontent.com/44085985/196340177-ab7b81af-6128-4766-aa2e-17f9dd8bffbc.gif)
